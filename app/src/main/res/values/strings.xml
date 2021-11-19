@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">zadanie2</string>
+    <string name="app_name">SwitchMaterial</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
 </resources>
